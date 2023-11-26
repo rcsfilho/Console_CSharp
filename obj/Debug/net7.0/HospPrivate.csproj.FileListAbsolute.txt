@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\obj\Debug\net7.0\HospPrivate.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\obj\Debug\net7.0\HospPrivate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\obj\Debug\net7.0\HospPrivate.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\obj\Debug\net7.0\HospPrivate.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\obj\Debug\net7.0\HospPrivate.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\bin\Debug\net7.0\HospPrivate.exe
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\bin\Debug\net7.0\HospPrivate.deps.json
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\bin\Debug\net7.0\HospPrivate.runtimeconfig.json
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\bin\Debug\net7.0\HospPrivate.dll
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\bin\Debug\net7.0\HospPrivate.pdb
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\obj\Debug\net7.0\HospPrivate.dll
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\obj\Debug\net7.0\refint\HospPrivate.dll
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\obj\Debug\net7.0\HospPrivate.pdb
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\obj\Debug\net7.0\HospPrivate.genruntimeconfig.cache
+C:\Users\Usuário\Documents\Unip - Curso 2 semestre\Programação OO\HospPrivate\obj\Debug\net7.0\ref\HospPrivate.dll
